@@ -83,5 +83,6 @@ A,spotify-adblock-git,"Spotify without ads"
 ,virtualbox,"Virtualization Software"
 ,virtualbox-host-modules-arch,"Virtualbox host kernel modules for Arch Kernel"
 ,virtualbox-host-dkms,"VirtualBox Host kernel modules sources"
+,python-pywal,"Program to set color-scheme based on the background"
 
 
