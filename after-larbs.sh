@@ -15,3 +15,6 @@ mkdir Pentesting && cd Pentesting || echo {Failure in cd}
 mkdir BugBountyPrograms VulnerableLabs CTFs VPNs
 cd ~/ || echo {Failure in cd}
 git clone https://github.com/Cloufish/blog.git
+
+cd ~/ || echo {Failure in cd}
+ln -s ~/.config/zsh/.zshenv ~/.zshenv
