@@ -84,5 +84,6 @@ A,spotify-adblock-git,"Spotify without ads"
 ,virtualbox-host-dkms,"VirtualBox Host kernel modules sources"
 A,vscodium-bin,"FOSS VSCode"
 ,python-pywal,"Program to set color-scheme based on the background"
+,transmission-gtk,"Torrent client"
 
 
