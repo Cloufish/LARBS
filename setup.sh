@@ -1,7 +1,12 @@
 #!/bin/bash
 
+if [ "$EUID" -ne 0 ]
+  then echo "Please run as root"
+  exit
+fi
+
 wget https://raw.githubusercontent.com/Cloufish/LARBS/master/larbs.sh
 chmod +x larbs.sh
-./larbs.sh -r https://github.com/Cloufish/voidrice -p https://raw.githubusercontent.com/Cloufish/LARBS/master/progs.csv
+sudo ./larbs.sh -r https://github.com/Cloufish/voidrice -p https://raw.githubusercontent.com/Cloufish/LARBS/master/progs.csv
 
 ## Now get your Git Credentials... and then run after-larbs.sh

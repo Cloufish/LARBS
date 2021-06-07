@@ -19,7 +19,7 @@ git clone https://github.com/Cloufish/dwm.git
 
 
 cd ~/ || { echo "Failure in cd command "; exit 1; }
-mkdir Pentesting && cd Pentesting { echo "Failure in cd command "; exit 1; }
+mkdir Pentesting && cd Pentesting || { echo "Failure in cd command "; exit 1; }
 mkdir BugBountyPrograms VulnerableLabs CTFs VPNs
 cd ~/ || { echo "Failure in cd command "; exit 1; }
 git clone https://github.com/Cloufish/blog.git
