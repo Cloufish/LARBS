@@ -93,4 +93,4 @@ A,bleachbit-git,"Deletes unneeded files to free disk space and maintain privacy.
 ,cronie,"Scheduling tasks to run"
 ,jdk11-openjdk,"is an open-source implementation of the Java Platform, Standard Edition (Java SE)"
 ,qt6-base,"Cross-platform application and widget toolkit"
-
+,zsh-syntax-highlighting, "ZSH Syntax Highlighting Plugin"
