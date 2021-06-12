@@ -95,3 +95,6 @@ A,bleachbit-git,"Deletes unneeded files to free disk space and maintain privacy.
 ,qt6-base,"Cross-platform application and widget toolkit"
 ,zsh-syntax-highlighting, "ZSH Syntax Highlighting Plugin"
 ,intellij-idea-community-edition,"IntelliJ IDEA, an IDE for Java, Kotlin and many other programming languages"
+,wine,"Wine"
+,wine-gecko,"Wine files for apps that depend of IE"
+,wine-mono,"Wine files for apps that depend on .NET"
