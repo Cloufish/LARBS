@@ -92,6 +92,7 @@ A,obsidian,"Obsidian is a powerful knowledge base that works on top of a local f
 A,bleachbit-git,"Deletes unneeded files to free disk space and maintain privacy."
 ,cronie,"Scheduling tasks to run"
 ,jdk11-openjdk,"is an open-source implementation of the Java Platform, Standard Edition (Java SE)"
+A,android-ndk,"Android C/C++ developer kit"
 ,qt6-base,"Cross-platform application and widget toolkit"
 ,zsh-syntax-highlighting, "ZSH Syntax Highlighting Plugin"
 ,intellij-idea-community-edition,"IntelliJ IDEA, an IDE for Java, Kotlin and many other programming languages"
