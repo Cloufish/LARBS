@@ -105,4 +105,4 @@ A,nodejs-gatsby-cli,"Gatsby command-line interface for creating new sites and ru
 ,ansible,"For provisioning environments"
 ,vagrant,"To manage virtual machiens"
 A,virtualbox-ext-oracle,"Virtualbox Extensions"
-
+,yamlint, "For linting yaml files"
