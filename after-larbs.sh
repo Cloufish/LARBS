@@ -28,3 +28,6 @@ cd ~/ || { echo "Failure in cd command "; exit 1; }
 
 
 sudo archlinux-java set java-11-openjdk
+
+systemctl enable cronie
+systemctl start cronie
