@@ -96,6 +96,7 @@ A,android-studio-beta,"Android-Studio"
 ,virtualbox,"Virtualization Software"
 ,virtualbox-host-modules-arch,"Virtualbox host kernel modules for Arch Kernel"
 A,vscodium-bin,"FOSS VSCode"
+A,code-marketplace,"To have working VSCode Marketplace
 ,python-pywal,"Program to set color-scheme based on the background"
 ,transmission-gtk,"Torrent client"
 ,lsof,"Program to list listenning ports"
