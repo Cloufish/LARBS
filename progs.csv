@@ -151,3 +151,5 @@ A,java-jce_ustrength,"Java Cryptography Extension - FIX FOR OWASP ZAP HANSHAKE F
 A,auto-cpufreq,"A CLI Daemon to Save Battery Usage on Laptops, enable it with systemctl status auto-cpufreq"
 ,bluez,"CLI for managing Bluetooth"
 ,bluez-utils,"Bluetooth Utils"
+A,syncthing,"Software to sync data between devices"
+,A,insync,"To sync the data with the cloud"
