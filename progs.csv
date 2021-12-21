@@ -153,3 +153,4 @@ A,auto-cpufreq,"A CLI Daemon to Save Battery Usage on Laptops, enable it with sy
 ,bluez-utils,"Bluetooth Utils"
 A,syncthing,"Software to sync data between devices"
 ,A,insync,"To sync the data with the cloud"
+,arduino,"IDE to Program Arduino"
